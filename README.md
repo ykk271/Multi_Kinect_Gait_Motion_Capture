@@ -1,5 +1,6 @@
-# Multi_Kinect_Gait_Motion_Capture![13586846_1](https://user-images.githubusercontent.com/73453028/157001709-ef3d0e31-c052-44e8-b51a-a68679931e28.jpg)
+# Multi_Kinect_Gait_Motion_Capture![13586846_1]
+![AC_ 20220307-181500](https://user-images.githubusercontent.com/73453028/157002082-2a88188f-a0c9-4df4-846f-8284570e61ca.gif)
 
-![AC_ 20220307-181500](https://user-images.githubusercontent.com/73453028/157001992-c61060ac-a1e2-4bd0-bdf2-fe13b64722ed.gif)
+
 
 
